@@ -6,4 +6,4 @@ services:
       - 'POSTGRES_PASSWORD=akinwumi1914'
       - 'POSTGRES_USER=akinwumi'
     ports:
-      - '5433'
+      - '5433:5432'
